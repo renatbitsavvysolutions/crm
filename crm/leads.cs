@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace crm
 {
-    class leads : Customer
+    class Leads : Customer
     {
 
         public string activities { get; set; }

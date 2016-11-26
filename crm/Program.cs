@@ -12,7 +12,7 @@ namespace crm
         {
 
             SqlConnectionWorker.sqlConnectWrite();
-            leads lead1 = new leads();
+            Leads lead1 = new Leads();
 
             lead1.activities = "Good";
 
